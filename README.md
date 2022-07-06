@@ -2,7 +2,7 @@
 
 ---
 
-[**Live preview**]](https://nazruweb.github.io/odin-recipes/)
+[**Live preview**](https://nazruweb.github.io/odin-recipes/)
 
 ---
 
