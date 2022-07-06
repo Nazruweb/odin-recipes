@@ -1,5 +1,11 @@
 # odin-recipes
 
+---
+
+[**Live preview**]](https://nazruweb.github.io/odin-recipes/)
+
+---
+
 A simple webpage made during the foundations course on the odin project. Clicking on a above link
 will show the recipes webpage.
 
